@@ -27,7 +27,7 @@
 - Homepage: https://github.com/D3-AI/GreenGuard
 
 # Overview
-
+Des
 The GreenGuard project is a collection of end-to-end solutions for machine learning tasks commonly
 found in monitoring wind energy production systems. Most tasks utilize sensor data
 emanating from monitoring systems. We utilize the foundational innovations developed for
